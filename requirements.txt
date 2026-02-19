@@ -1,0 +1,7 @@
+yfinance
+pandas
+numpy
+ta
+requests
+schedule
+python-telegram-bot==13.15
